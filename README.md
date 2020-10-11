@@ -7,5 +7,5 @@ Bootstrap webpage design practice series.
 - _Bootstrap 4_
 - _Javascript_
 
-Live https://batuhanyilmazzz.github.io/bootstrap-projects-2/
+Live https://dorukcengiz.github.io/bootstrap-project-1/
 
