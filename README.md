@@ -1,4 +1,4 @@
-# BootstrapProjects-2
+# BootstrapProjects-1
 
 Bootstrap webpage design practice series.
 
