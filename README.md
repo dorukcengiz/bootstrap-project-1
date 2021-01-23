@@ -34,7 +34,6 @@ The full project requirements can be found below.
 sh
 $ --https://github.com/dorukcengiz/bootstrap-project-1.git
 
-> cd into the directory, install dependencies, build and start
 
 sh
 $ cd bootstrap-project-1
@@ -42,8 +41,7 @@ $ click open with live server
 
 
 
-> Open `http://127.0.0.1:3000` using your favourite broswer, if it doesn't open automatically.
-and npm run start.
+> Open `http://127.0.0.1:3000` using your favourite broswer.
 
 ### ✨ [Live Demo](https://dorukcengiz.github.io/bootstrap-project-1/)
 
