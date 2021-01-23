@@ -1,10 +1,10 @@
 <h1 align="center">Recipe App React</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="https://github.com/BatuhanYilmazzz/FoodStationReact#readme" target="_blank">
+  <a href="https://github.com/dorukcengiz/bootstrap-project-1#readme" target="_blank">
     <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
   </a>
-  <a href="https://github.com/BatuhanYilmazzz/FoodStationReact/commit-activity" target="_blank">
+  <a href="https://github.com/dorukcengiz/bootstrap-project-1/commit-activity" target="_blank">
     <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
   </a>
   <a href="https://twitter.com/batuhan38008916" target="_blank">
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/BatuhanYilmazzz/FoodStationReact" target="_blank">
+  <a href="https://github.com/dorukcengiz/bootstrap-project-1" target="_blank">
     Picture
   </a>
 </p>
@@ -25,30 +25,27 @@ The full project requirements can be found below.
 
 - Html5
 - Css3
-- Scss
-- JavaScript (ES6)
-- React Hooks
+- Bootstrap
 
 ## Usage
 
 > Clone the repository to your local machine
 
 sh
-$ --https://github.com/BatuhanYilmazzz/FoodStationReact.git
+$ --https://github.com/dorukcengiz/bootstrap-project-1.git
 
 > cd into the directory, install dependencies, build and start
 
 sh
-$ cd FoodStationReact
-$ npm install
-$ npm run build
-$ npm run start
+$ cd bootstrap-project-1
+$ click open with live server
+
 
 
 > Open `http://127.0.0.1:3000` using your favourite broswer, if it doesn't open automatically.
 and npm run start.
 
-### ✨ [Live Demo](https://recipeapp-batu.herokuapp.com/)
+### ✨ [Live Demo](https://dorukcengiz.github.io/bootstrap-project-1/)
 
 
 ## Author
@@ -57,9 +54,9 @@ and npm run start.
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/BatuhanYilmazzz/NetflixReact/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/dorukcengiz/bootstrap-project-1/issues).
 
-1. Fork it (https://github.com/BatuhanYilmazzz/FoodStationReact.git/fork)
+1. Fork it (https://github.com/dorukcengiz/bootstrap-project-1.git/fork)
 2. Create your working branch (git checkout -b [choose-a-name])
 3. Commit your changes (git commit -am 'what this commit will fix/add/improve')
 4. Push to the branch (git push origin [chosen-name])
@@ -74,5 +71,5 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 Give a ⭐ if you like this project!
 
 
-Live https://dorukcengiz.github.io/bootstrap-project-1/
+
 
