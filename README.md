@@ -60,9 +60,7 @@ Contributions, issues and feature requests are welcome!<br />Feel free to check 
 4. Push to the branch (git push origin [chosen-name])
 5. Create a new Pull Request
 
-## Future Ideas
 
-- Make the app describe how you should cook the food .
 
 ## Show your support
 
