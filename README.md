@@ -1,4 +1,4 @@
-<h1 align="center">Recipe App React</h1>
+<h1 align="center">Bootstrap-Project-1</h1>
 <p>
   <img alt="Version" src="https://img.shields.io/badge/version-1.0.0-blue.svg?cacheSeconds=2592000" />
   <a href="https://github.com/dorukcengiz/bootstrap-project-1#readme" target="_blank">
